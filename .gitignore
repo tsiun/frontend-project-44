@@ -1,5 +1,6 @@
 # Системные файлы
 .DS_Store
+.vscode
 
 # Зависимости
 node_modules/

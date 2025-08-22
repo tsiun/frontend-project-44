@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "frontend project 44",
   "bin": {
-    // "nodejs-package": "bin/nodejs-package.js",
     "brain-games": "bin/brain-games.js"
   },
   "simple-git-hooks": {

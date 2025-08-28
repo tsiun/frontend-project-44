@@ -30,14 +30,6 @@ Example:
 brain-even
 ```
 
-## Minimum Requirements
-
-```bash
-Node.js >= 20.0
-npm >= 9.0
-Make >= 4.0
-```
-
 ## Available Games
 ### Brain Even
 Rule: Answer "yes" if the number is even, otherwise answer "no".
@@ -88,3 +80,11 @@ brain-prime
 ```
 ##### Demo
 *Coming soon...*
+
+## Minimum Requirements
+
+```bash
+Node.js >= 20.0
+npm >= 9.0
+Make >= 4.0
+```

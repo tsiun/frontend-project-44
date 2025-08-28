@@ -23,15 +23,12 @@ npm link
 
 ## Usage
 
-Run a game from the terminal.
+To start a game, run its command in the terminal.
 Example:
 
 ```bash
 brain-even
 ```
-
-## Demo
-[![asciicast](https://asciinema.org/a/736033.svg)](https://asciinema.org/a/736033)
 
 ## Minimum Requirements
 
@@ -41,23 +38,53 @@ npm >= 9.0
 Make >= 4.0
 ```
 
-## Games
+## Available Games
 ### Brain Even
+Rule: Answer "yes" if the number is even, otherwise answer "no".
+Run a game from the terminal.
 
-Answer "yes" if the number is even, otherwise answer "no".
+```bash
+brain-even
+```
+##### Demo
+[![asciicast](https://asciinema.org/a/736033.svg)](https://asciinema.org/a/736033)
 
 ### Brain Calc
+Rule: Solve a simple arithmetic expression.
+Run a game from the terminal.
 
-*Coming soon...*
+```bash
+brain-calc
+```
+##### Demo
+[![asciicast](https://asciinema.org/a/736242.svg)](https://asciinema.org/a/736242)
 
 ### Brain GCD
+Rule: Find the greatest common divisor of two numbers.
+Run a game from the terminal.
 
+```bash
+brain-GCD
+```
+##### Demo
 *Coming soon...*
 
 ### Brain Progression
+Rule: Find the missing number in the arithmetic progression.
+Run a game from the terminal.
 
+```bash
+brain-progression
+```
+##### Demo
 *Coming soon...*
 
 ### Brain Prime
+Rule: Answer "yes" if the number is prime, otherwise answer "no".
+Run a game from the terminal.
 
+```bash
+brain-prime
+```
+##### Demo
 *Coming soon...*

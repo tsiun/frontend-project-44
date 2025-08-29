@@ -59,7 +59,7 @@ Run a game from the terminal.
 brain-GCD
 ```
 ##### Demo
-*Coming soon...*
+[![asciicast](https://asciinema.org/a/736449.svg)](https://asciinema.org/a/736449)
 
 ### Brain Progression
 Rule: Find the missing number in the arithmetic progression.

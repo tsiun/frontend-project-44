@@ -69,7 +69,7 @@ Run a game from the terminal.
 brain-progression
 ```
 ##### Demo
-*Coming soon...*
+[![asciicast](https://asciinema.org/a/736812.svg)](https://asciinema.org/a/736812)
 
 ### Brain Prime
 Rule: Answer "yes" if the number is prime, otherwise answer "no".

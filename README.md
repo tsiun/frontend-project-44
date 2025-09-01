@@ -79,7 +79,7 @@ Run a game from the terminal.
 brain-prime
 ```
 ##### Demo
-*Coming soon...*
+[![asciicast](https://asciinema.org/a/737057.svg)](https://asciinema.org/a/737057)
 
 ## Minimum Requirements
 
